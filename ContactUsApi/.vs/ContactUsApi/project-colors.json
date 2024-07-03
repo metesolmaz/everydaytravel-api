@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5114caa1-a007-47f6-9c50-9455a75de830": {
+      "ProjectGuid": "5114caa1-a007-47f6-9c50-9455a75de830",
+      "DisplayName": "ContactUs.DataAccess1",
+      "ColorIndex": 0
+    },
+    "e0e496db-6c19-4005-857e-6ef2034d59d9": {
+      "ProjectGuid": "e0e496db-6c19-4005-857e-6ef2034d59d9",
+      "DisplayName": "ContactUs.Business1",
+      "ColorIndex": 1
+    },
+    "9e2ff965-2b9f-4d11-a497-148b028b82f3": {
+      "ProjectGuid": "9e2ff965-2b9f-4d11-a497-148b028b82f3",
+      "DisplayName": "EveryDayTravelApi",
+      "ColorIndex": 2
+    },
+    "ea8dc384-2940-449f-9841-12d9df351e91": {
+      "ProjectGuid": "ea8dc384-2940-449f-9841-12d9df351e91",
+      "DisplayName": "ContactUs.Entities1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,65 @@
+D:\everydaytravel\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.deps.json
+D:\everydaytravel\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.json
+D:\everydaytravel\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.dev.json
+D:\everydaytravel\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+D:\everydaytravel\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+D:\everydaytravel\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.AssemblyReference.cache
+D:\everydaytravel\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.GeneratedMSBuildEditorConfig.editorconfig
+D:\everydaytravel\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfoInputs.cache
+D:\everydaytravel\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfo.cs
+D:\everydaytravel\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.CoreCompileInputs.cache
+D:\everydaytravel\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+D:\everydaytravel\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+D:\everydaytravel\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.genruntimeconfig.cache
+D:\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.deps.json
+D:\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.json
+D:\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.dev.json
+D:\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+D:\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+D:\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.AssemblyReference.cache
+D:\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.GeneratedMSBuildEditorConfig.editorconfig
+D:\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfoInputs.cache
+D:\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfo.cs
+D:\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.CoreCompileInputs.cache
+D:\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+D:\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+D:\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.genruntimeconfig.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.deps.json
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.json
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.dev.json
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.AssemblyReference.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfoInputs.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfo.cs
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.CoreCompileInputs.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.genruntimeconfig.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.deps.json
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.json
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.dev.json
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.AssemblyReference.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfoInputs.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfo.cs
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.CoreCompileInputs.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.genruntimeconfig.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.deps.json
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.json
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.runtimeconfig.dev.json
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.AssemblyReference.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfoInputs.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.AssemblyInfo.cs
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.csproj.CoreCompileInputs.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUs.Entities1\obj\Debug\netcoreapp3.1\ContactUs.Entities1.genruntimeconfig.cache

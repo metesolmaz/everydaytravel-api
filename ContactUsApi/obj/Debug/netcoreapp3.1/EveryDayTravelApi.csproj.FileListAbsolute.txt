@@ -1,0 +1,320 @@
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.exe
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.deps.json
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.json
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.dev.json
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.pdb
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+D:\everydaytravel\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.pdb
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.AssemblyReference.cache
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfoInputs.cache
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfo.cs
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CoreCompileInputs.cache
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\EveryDayTravelApi.StaticWebAssets.Manifest.cache
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.RazorTargetAssemblyInfo.cache
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CopyComplete
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+D:\everydaytravel\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.genruntimeconfig.cache
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.AssemblyReference.cache
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfoInputs.cache
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfo.cs
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CoreCompileInputs.cache
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.exe
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.deps.json
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.json
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.dev.json
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.pdb
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+D:\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.pdb
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\EveryDayTravelApi.StaticWebAssets.Manifest.cache
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.RazorTargetAssemblyInfo.cache
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CopyComplete
+D:\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.genruntimeconfig.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.exe
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.deps.json
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.json
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.dev.json
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.pdb
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.pdb
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.AssemblyReference.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfoInputs.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfo.cs
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CoreCompileInputs.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\EveryDayTravelApi.StaticWebAssets.Manifest.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.RazorTargetAssemblyInfo.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CopyComplete
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.genruntimeconfig.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.exe
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.deps.json
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.json
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.dev.json
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.pdb
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.pdb
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.AssemblyReference.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfoInputs.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfo.cs
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CoreCompileInputs.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\EveryDayTravelApi.StaticWebAssets.Manifest.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.RazorTargetAssemblyInfo.cache
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CopyComplete
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+C:\Users\xmeny\Desktop\Vue Proje\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.genruntimeconfig.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.exe
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.deps.json
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.json
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.runtimeconfig.dev.json
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Business1.pdb
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.Entities1.pdb
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\bin\Debug\netcoreapp3.1\ContactUs.DataAccess1.pdb
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.AssemblyReference.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfoInputs.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.AssemblyInfo.cs
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CoreCompileInputs.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\EveryDayTravelApi.StaticWebAssets.Manifest.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.RazorTargetAssemblyInfo.cache
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.csproj.CopyComplete
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.dll
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.pdb
+C:\Users\xmeny\Desktop\EverydayTravel-Api\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\EveryDayTravelApi.genruntimeconfig.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\EveryDayTravelApi.StaticWebAssets.Pack.cache
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.EveryDayTravelApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.EveryDayTravelApi.props
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.EveryDayTravelApi.props
+C:\Users\sonsu\Desktop\everydaytravel-api\ContactUsApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.EveryDayTravelApi.props
